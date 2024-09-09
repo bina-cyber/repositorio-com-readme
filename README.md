@@ -8,5 +8,5 @@ Um projeto de teste com um arquivo README 🚀
 - CSS
  
 ## Aprendizado e Dificuldades 
-Como dev iniciante com  esse projeto tive a oportunidade de praticar e aperfeiçoar, meus conhecimentos básicos nessas linguagens.Também aprendendo a lidar com a pacência e atenção na hora de codar.
+Como dev iniciante com  esse projeto tive a oportunidade de praticar e aperfeiçoar, meus conhecimentos básicos nessas linguagens.Também aprendendo a lidar com a paciência e atenção na hora de codar.
 
